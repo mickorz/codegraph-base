@@ -6,3 +6,7 @@
 	path = thirdparties/Understand-Anything
 	url = https://github.com/Egonex-AI/Understand-Anything.git
 	branch = main
+[submodule "thirdparties/codebase-memory-mcp"]
+	path = thirdparties/codebase-memory-mcp
+	url = https://github.com/DeusData/codebase-memory-mcp.git
+	branch = main

@@ -1,0 +1,4 @@
+[submodule "thirdparties/graphify"]
+	path = thirdparties/graphify
+	url = https://github.com/Graphify-Labs/graphify.git
+	branch = v8
